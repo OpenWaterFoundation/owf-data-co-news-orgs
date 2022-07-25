@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.502997, 40.309221, -104.510193, 40.575314],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-104.510193, 40.442767, -104.510193, 40.442767],
+      "properties": {
+        "Organization": "Coyote Gulch",
+        "OrganizationType": "Blog/Aggregator",
+        "ParentCompany": "",
+        "Website": "https://coyotegulch.blog/",
+        "InBasin": "No",
+        "Longitude": -104.510193,
+        "Latitude": 40.442767,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.510193, 40.442767]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.569244, 40.350731, -104.569244, 40.350731],
+      "properties": {
+        "Organization": "Denver Post",
+        "OrganizationType": "Newspaper",
+        "ParentCompany": "Digital First Media",
+        "Website": "https://www.denverpost.com/",
+        "InBasin": "No",
+        "Longitude": -104.569244,
+        "Latitude": 40.350731,
+        "LongitudeMain": -104.974704,
+        "LatitudeMain": 39.804608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.569244, 40.350731]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.502997, 40.370654, -105.502997, 40.370654],
+      "properties": {
+        "Organization": "Estes Park News",
+        "OrganizationType": "Local Newspaper",
+        "ParentCompany": "",
+        "Website": "https://www.estesparknews.com/",
+        "InBasin": "No",
+        "Longitude": -105.502997,
+        "Latitude": 40.370654,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.502997, 40.370654]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.052371, 40.575314, -105.052371, 40.575314],
+      "properties": {
+        "Organization": "Fort Collins Coloradoan",
+        "OrganizationType": "Newspaper",
+        "ParentCompany": "Gannett",
+        "Website": "https://www.coloradoan.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.052371,
+        "Latitude": 40.575314,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.052371, 40.575314]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.510193, 40.376891, -104.510193, 40.376891],
+      "properties": {
+        "Organization": "Fresh Water News",
+        "OrganizationType": "Independent News",
+        "ParentCompany": "",
+        "Website": "https://www.watereducationcolorado.org/fresh-water-news/",
+        "InBasin": "No",
+        "Longitude": -104.510193,
+        "Latitude": 40.376891,
+        "LongitudeMain": -104.972894,
+        "LatitudeMain": 39.741867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.510193, 40.376891]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.691641, 40.428032, -104.691641, 40.428032],
+      "properties": {
+        "Organization": "Greeley Tribune",
+        "OrganizationType": "Newspaper",
+        "ParentCompany": "Media News Group",
+        "Website": "https://www.greeleytribune.com/",
+        "InBasin": "Yes",
+        "Longitude": -104.691641,
+        "Latitude": 40.428032,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.691641, 40.428032]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.575237, 40.419889, -104.575237, 40.419889],
+      "properties": {
+        "Organization": "High Country News",
+        "OrganizationType": "Independent Media",
+        "ParentCompany": "",
+        "Website": "https://www.hcn.org/",
+        "InBasin": "No",
+        "Longitude": -104.575237,
+        "Latitude": 40.419889,
+        "LongitudeMain": -107.597737,
+        "LatitudeMain": 38.866352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.575237, 40.419889]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.076627, 40.309221, -105.076627, 40.309221],
+      "properties": {
+        "Organization": "Loveland Reporter-Herald",
+        "OrganizationType": "Local Newspaper",
+        "ParentCompany": "",
+        "Website": "https://www.reporterherald.com/",
+        "InBasin": "No",
+        "Longitude": -105.076627,
+        "Latitude": 40.309221,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.076627, 40.309221]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.059926, 40.552055, -105.059926, 40.552055],
+      "properties": {
+        "Organization": "North Forty News",
+        "OrganizationType": "Weekly Independent News",
+        "ParentCompany": "",
+        "Website": "https://northfortynews.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.059926,
+        "Latitude": 40.552055,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.059926, 40.552055]
+      }
+    }
+  ]
+}

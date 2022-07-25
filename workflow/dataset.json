@@ -1,0 +1,24 @@
+{
+  "title": "Colorado News Organizations",
+  "description": "Colorado News Organizations.",
+  "identifier": "owf-data-co-news-orgs",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/news-orgs/",
+  "issued": "2022-07-25",
+  "keyword": [
+    "polygon",
+    "water news"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado News Organizations"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.084432, 40.407356, -104.771293, 40.574532],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-105.084432, 40.574532, -105.084432, 40.574532],
+      "properties": {
+        "Organization": "KCSU FM",
+        "OrganizationType": "University Station",
+        "ParentCompany": "Rocky Mountain Student Media",
+        "Website": "http://kcsufm.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.084432,
+        "Latitude": 40.574532,
+        "LongitudeMain": "",
+        "LatitudeMain": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.084432, 40.574532]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.771293, 40.407356, -104.771293, 40.407356],
+      "properties": {
+        "Organization": "KUNC FM",
+        "OrganizationType": "Community Licensed",
+        "ParentCompany": "Community Radio for Northern Colorado",
+        "Website": "https://www.kunc.org/",
+        "InBasin": "Yes",
+        "Longitude": -104.771293,
+        "Latitude": 40.407356,
+        "LongitudeMain": "",
+        "LatitudeMain": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.771293, 40.407356]
+      }
+    }
+  ]
+}
