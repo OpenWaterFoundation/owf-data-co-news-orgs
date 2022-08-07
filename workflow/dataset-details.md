@@ -10,11 +10,11 @@ This may change in the future as additional basins are added to the dataset.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-news-orgs.geojson`](co-news-orgs.geojson) | Colorado news organizations (primarily printed content). |
-| [`co-radio-stations.geojson`](co-radio-stations.geojson) | Colorado radio stations. |
-| [`co-tv-stations.geojson`](co-tv-stations.geojson) | Colorado television stations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-news-orgs.geojson`](co-news-orgs.geojson) | Colorado news organizations (primarily printed content). | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/news-orgs/co-news-orgs.geojson) |
+| [`co-radio-stations.geojson`](co-radio-stations.geojson) | Colorado radio stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/news-orgs/co-radio-stations.geojson) |
+| [`co-tv-stations.geojson`](co-tv-stations.geojson) | Colorado television stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/news-orgs/co-tv-stations.geojson) |
 
 ## Workflow ##
 
